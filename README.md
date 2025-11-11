@@ -1,9 +1,12 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&pause=1000&width=435&lines=chomk23+github" alt="Typing SVG" /></a>
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chomk23&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chomk23&layout=compact)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-![header](https://capsule-render.vercel.app/api?text=chomk23)
+
 
 
 <h3 align="center">✨ Tech Stack ✨</h3>
