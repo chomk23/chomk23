@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=chomk23%20github
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=chomk23%20github)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chomk23&show_icons=true&theme=radical)
 
